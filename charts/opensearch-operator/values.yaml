@@ -50,7 +50,7 @@ manager:
   imagePullSecrets: []
   # - name: secretName
 
-  dnsBase: cluster.local
+  dnsBase: dev.medindex.ru
 
   # Log level of the operator. Possible values: debug, info, warn, error
   loglevel: info
